@@ -1,0 +1,5 @@
+The following files have identical names/designations:
+files ./image_123.jpeg and ./image_123.jpg
+files ./image_123.jpg and ./image_123.jpeg
+files ./image_150.jpg and ./image_150.png
+files ./image_150.png and ./image_150.jpg

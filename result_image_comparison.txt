@@ -1,17 +1,1 @@
 The following files are identical:
-files ./image_119.png and ./image_167.png
-files ./image_121.jpg and ./image_122.jpg
-files ./image_122.jpg and ./image_121.jpg
-files ./image_140.jpg and ./image_175.jpg
-files ./image_140.jpg and ./image_183.jpg
-files ./image_142.jpg and ./image_170.jpg
-files ./image_150.jpg and ./image_201.jpg
-files ./image_167.png and ./image_119.png
-files ./image_170.jpg and ./image_142.jpg
-files ./image_175.jpg and ./image_140.jpg
-files ./image_175.jpg and ./image_183.jpg
-files ./image_183.jpg and ./image_140.jpg
-files ./image_183.jpg and ./image_175.jpg
-files ./image_201.jpg and ./image_150.jpg
-files ./image_213.jpg and ./image_218.jpg
-files ./image_218.jpg and ./image_213.jpg
