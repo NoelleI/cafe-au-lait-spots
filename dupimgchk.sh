@@ -6,7 +6,7 @@
 
 #!/bin/bash
 
-search_path="." # directory which contains the files
+search_path="images" # directory which contains the files
 imgfileprefix="image_" # all image files begin with this string
 fileset=$(ls $search_path/$imgfileprefix*) # complete set of files
 
